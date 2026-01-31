@@ -99,3 +99,9 @@ Session history and progress tracking
 Mobile application support  
 Trainer/mentor dashboard  
 Bias mitigation and personalization controls
+
+---
+
+## 📄 Research Paper Regarding this project
+
+  [Click here to open (PDF)](AI-Powered-Mock-Interview-System.pdf)
